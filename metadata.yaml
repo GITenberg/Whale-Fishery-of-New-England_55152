@@ -1,0 +1,25 @@
+_repo: Whale-Fishery-of-New-England_55152
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Company, State Street Trust
+    gutenberg_agent_id: '48206'
+    url: http://www.gutenberg.org/2009/agents/48206
+description: ''
+gutenberg_issued: '2017-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55152'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Whale Fishery of New England
+url: http://www.gutenberg.org/ebooks/55152
